@@ -9,7 +9,7 @@ BookingApplication is designed to read hotel deals from https://offersvc.expedia
 1. Microsoft Visual Studio 2013.
 2. .Net FrameWork 4.5
 3. GitHub Repository.
-4. GearHost web hosting.
+4. GearHost web hosting .
 
 -----------------
 # * Technologies:
@@ -20,5 +20,9 @@ BookingApplication is designed to read hotel deals from https://offersvc.expedia
 # * Why .Net?
 -------------
 I chose to develop this application using .Net  programming language because I am a .Net developer and I have experience in it.
+
+# * Why GearHost web hosting?
+-------------
+I chose it because I couldn't publish my files on Heroku because it is not compatible with .Net.
 
 
